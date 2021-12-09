@@ -1,6 +1,6 @@
 # Day Logger App - Backend 
 
-##Unit Testing in frontend
+#Unit Testing in frontend
 
 `./backend-test/validateEmail.test.js -> returns a boolean whether an email is a valid email or not`
 
