@@ -9,6 +9,7 @@
 After installing jest by doing 
 ```bash
 npm install --save-dev jest
+```
 run `npm run test` on terminal.
 
 ## When create new account (signup)
